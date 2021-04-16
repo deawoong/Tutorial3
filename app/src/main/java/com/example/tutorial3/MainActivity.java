@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-// test
 public class MainActivity extends AppCompatActivity {
 
     private String[] items = {"망고 쥬스", "토마토 쥬스", "포도 쥬스"};
